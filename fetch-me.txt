@@ -4,3 +4,5 @@ Check your remote repository, then pull me.
 
 Thank you, I'm able to understand a bit more differences between fetch and 
 pulling,
+
+Now, I'll merged with the main branch, without any conflict!

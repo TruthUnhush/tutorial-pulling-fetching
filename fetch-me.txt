@@ -1,0 +1,3 @@
+I have important information. 
+Fetch me, but do not pull me first.
+Check your remote repository, then pull me.

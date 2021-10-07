@@ -1,1 +1,7 @@
 Now I'm brand new without conflicts too!
+
+Now is time to solve some conflicts!
+
+This line should persist!
+
+This one must be delete!

@@ -1,3 +1,6 @@
 I have important information. 
 Fetch me, but do not pull me first.
 Check your remote repository, then pull me.
+
+Thank you, I'm able to understand a bit more differences between fetch and 
+pulling,

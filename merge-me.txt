@@ -1,1 +1,7 @@
 Now I'm brand new without conflicts too!
+
+This is a new content and it could create a conflict!
+
+Let's merge origin and remote, follow the instructions from origin.
+
+The local content must be at the end of this file!

@@ -1,5 +1,9 @@
 Now I'm brand new without conflicts too!
 
+Now is time to solve some conflicts!
+
+This line should persist!
+
 This is a new content and it could create a conflict!
 
 Let's merge origin and remote, follow the instructions from origin.

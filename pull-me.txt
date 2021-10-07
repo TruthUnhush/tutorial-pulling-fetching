@@ -1,1 +1,3 @@
 I'm a new brand file. Just pull-me.
+
+Then I'm a new content without any conflict!
